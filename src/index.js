@@ -12,8 +12,9 @@ return(
       <FormPage/>
       <Grid/>
       <Footer/>
-
-    </div>
+   
+   
+   </div>
 );
 };
 

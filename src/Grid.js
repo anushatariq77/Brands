@@ -10,7 +10,7 @@ const Grid=()=>{
     <div className = "row" style ={{ display : 'flex'}}>
     <div className="column" style={{  flex: '33.33%',
       padding: '5px'}}>
-          <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)' }}>
+          <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)' }}>
             <div className="ui slide masked reveal image"  >
               <img src="ak.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="ak.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -21,7 +21,7 @@ const Grid=()=>{
             </div>
           </div>
     
-          <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)' }}>
+          <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)' }}>
            
             <div className="content" style={{width:"40vh", textAlign:"center"}}>
               <a className="header"  style={{color:"#F13C20"}}>ASIM JOFA</a>
@@ -33,7 +33,7 @@ const Grid=()=>{
             </div>
           </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)' }}>
+          <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)' }}>
             <div className="ui slide masked reveal image"  >
               <img src="ch.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="ch.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -44,7 +44,7 @@ const Grid=()=>{
             </div>
           </div>
 
-      <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)' }}>
+      <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)' }}>
         <div className="content" style={{width:"40vh", textAlign:"center"}}>
              <a className="header"  style={{color:"#F13C20"}}>DHANAK</a>
              <hr ></hr>
@@ -55,7 +55,7 @@ const Grid=()=>{
            </div>
          </div>
 
-         <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)' }}>
+         <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)' }}>
             <div className="ui slide masked reveal image"  >
               <img src="OT.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="OT.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -66,7 +66,7 @@ const Grid=()=>{
             </div>
           </div>
 
-      <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)' }}>
+      <div className="ui card" style={{margin:'50px 0 0 10px' , boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)' }}>
         <div className="content" style={{width:"40vh", textAlign:"center"}}>
              <a className="header"  style={{color:"#F13C20"}}>J. JUNAID JAMSHED</a>
              <hr ></hr>
@@ -85,7 +85,7 @@ const Grid=()=>{
         padding: '5px'}}>
           
     
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  style = {{ height: '200px'}}>
               <img src="kd.png" className="visible content" />
               <img src="kd.png" className="hidden content" />
@@ -96,7 +96,7 @@ const Grid=()=>{
             </div>
           </div>
     
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
            
             <div className="content" style={{width:"40vh", textAlign:"center"}}>
               <a className="header"  style={{color:"#F13C20"}}>BONANZA</a>
@@ -108,7 +108,7 @@ const Grid=()=>{
             </div>
           </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  style = {{ height: '200px'}}>
               <img src="ed.png" className="visible content" />
               <img src="ed.png" className="hidden content" />
@@ -119,7 +119,7 @@ const Grid=()=>{
             </div>
           </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>   
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>   
            <div className="content" style={{width:"40vh", textAlign:"center"}}>
              <a className="header"  style={{color:"#F13C20"}}>LIMELIGHT</a>
              <hr ></hr>
@@ -130,7 +130,7 @@ const Grid=()=>{
            </div>
          </div>
 
-         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  style = {{ height: '200px'}}>
               <img src="BS.png" className="visible content" />
               <img src="BS.png" className="hidden content" />
@@ -141,7 +141,7 @@ const Grid=()=>{
             </div>
           </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>   
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>   
         <div className="content" style={{width:"40vh", textAlign:"center"}}>
              <a className="header"  style={{color:"#F13C20"}}>CHEN ONE</a>
              <hr ></hr>
@@ -161,7 +161,7 @@ const Grid=()=>{
     
      <div className = "column" style={{  flex: '33.33%',
       padding: '5px'}}>
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  >
               <img src="sp.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="sp.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -172,7 +172,7 @@ const Grid=()=>{
             </div>
          </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>   
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>   
             <div className="content" style={{width:"40vh", textAlign:"center"}}>
             <a className="header" style={{color:'#5D0015'}}>NISHAT LINEN</a>
             <hr ></hr>
@@ -183,7 +183,7 @@ const Grid=()=>{
             </div>
           </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  >
               <img src="mb.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="mb.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -194,7 +194,7 @@ const Grid=()=>{
             </div>
          </div> 
 
-         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>   
+         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>   
             <div className="content" style={{width:"40vh", textAlign:"center"}}>
             <a className="header" style={{color:'#5D0015'}}>MOTIFZ</a>
             <hr ></hr>
@@ -205,11 +205,34 @@ const Grid=()=>{
             </div>
           </div>
 
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
+            <div className="ui slide masked reveal image"  >
+              <img src="wd.png" className="visible content" style = {{ height : '200px'}}/>
+           <img src="wd.png" className="hidden content" style = {{ height : '200px'}}/>
+            </div>
+            <div className="content" style={{width:"40vh", textAlign:"center"}}>
+              <a className="header" style={{color:'#AC3B61'}}>WARDA</a>
+              <hr ></hr>         
+            </div>
+         </div> 
+
+         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>   
+            <div className="content" style={{width:"40vh", textAlign:"center"}}>
+            <a className="header" style={{color:'#5D0015'}}>FIRDOUS</a>
+            <hr ></hr>
+            </div>
+            <div className="ui slide masked reveal image"  >
+              <img src="fs.png" className="visible content" style = {{ height : '200px'}}/>
+              <img src="fs.png" className="hidden content" style = {{ height : '200px'}}/>
+            </div>
+          </div>
+
+
         </div>
 
         <div className = "column" style={{  flex: '33.33%',
       padding: '5px'}}>
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  >
               <img src="gul.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="gul.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -220,7 +243,7 @@ const Grid=()=>{
             </div>
          </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="content" style={{width:"40vh", textAlign:"center"}}>
           <a className="header" style={{color:'#5D0015'}}>SANA SAFINAZ</a>
               <hr ></hr>
@@ -231,7 +254,7 @@ const Grid=()=>{
             </div>
           </div>
 
-          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="ui slide masked reveal image"  >
               <img src="et.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="et.png" className="hidden content" style = {{ height : '200px'}}/>
@@ -242,7 +265,7 @@ const Grid=()=>{
             </div>
          </div>
 
-         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.75)'}}>
+         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
             <div className="content" style={{width:"40vh", textAlign:"center"}}>
           <a className="header" style={{color:'#5D0015'}}>EGO</a>
               <hr ></hr>
@@ -250,6 +273,28 @@ const Grid=()=>{
             <div className="ui slide masked reveal image"  >
               <img src="EG.png" className="visible content" style = {{ height : '200px'}}/>
               <img src="EG.png" className="hidden content" style = {{ height : '200px'}} />
+            </div>
+          </div>
+
+          <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
+            <div className="ui slide masked reveal image"  >
+              <img src="GN.png" className="visible content" style = {{ height : '200px'}}/>
+              <img src="GN.png" className="hidden content" style = {{ height : '200px'}}/>
+            </div>
+            <div className="content" style={{width:"40vh", textAlign:"center"}}>
+              <a className="header" style={{color:'#AC3B61'}}>GENERATION</a>
+              <hr ></hr>             
+            </div>
+         </div>
+
+         <div className="ui card" style={{margin:'50px 0 0 10px', boxShadow:'-1px 4px 26px 5px rgba(0,0,0,0.35)'}}>
+            <div className="content" style={{width:"40vh", textAlign:"center"}}>
+          <a className="header" style={{color:'#5D0015'}}>MAUSUMMERY</a>
+              <hr ></hr>
+            </div>
+            <div className="ui slide masked reveal image"  >
+              <img src="ms.png" className="visible content" style = {{ height : '200px'}}/>
+              <img src="ms.png" className="hidden content" style = {{ height : '200px'}} />
             </div>
           </div>
 
