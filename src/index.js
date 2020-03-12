@@ -4,13 +4,15 @@ import Footer from './Footer';
 import FormPage from './FormPage';
 import Grid from './Grid';
 import TopNav from './TopNav';
+import BrandsList from './BrandsList';
 
 const App=()=>{
 return(
     <div>
       <TopNav/>
       <FormPage/>
-      <Grid/>
+      {/* <Grid/> */}
+      <BrandsList/>
       <Footer/>
 
     </div>

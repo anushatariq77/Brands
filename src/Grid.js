@@ -1,10 +1,6 @@
 import React from 'react';
 
-// const data =[
-//   {
-//     name:'
-//   }
-// ]
+
 const Grid=()=>{
   return(
     <div className = "row" style ={{ display : 'flex'}}>
