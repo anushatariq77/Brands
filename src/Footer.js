@@ -3,7 +3,7 @@ import React from 'react';
 const footer=()=>{
 return(
 
-<div className= 'container-fluid'>
+<div className= 'container-fluid' style = {{ marginTop: '100px'}}>
     {/* First Div  */}
 
 

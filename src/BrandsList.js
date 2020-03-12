@@ -8,28 +8,28 @@ const data =[
       img:'ak.png'
     },
     {
-      name:'ASIM JOFA',
-      img:'as.png'
+      name:'KHAADI',
+      img:'KD.png'
     },
     {
-      name:'CHARIZMA',
-      img:'ch.png'
+      name:'GULAHMED',
+      img:'GUL.png'
     },
     {
-      name:'DHANAK',
-      img:'dn.png'
+      name:'SAPPHIRE',
+      img:'SP.png'
     },
     {
-      name:'OUTFITTERS',
-      img:'OT.png'
+      name:'SANA SAFINAZ',
+      img:'SN.png'
     },
     {
-        name:'ALKARAM STUDIO',
-        img:'ak.png'
+        name:'NISHAT LINEN',
+        img:'NL.png'
       },
       {
-        name:'ASIM JOFA',
-        img:'as.png'
+        name:'LIMELIGHT',
+        img:'LM.png'
       },
       {
         name:'CHARIZMA',
@@ -43,6 +43,64 @@ const data =[
         name:'OUTFITTERS',
         img:'OT.png'
       },
+      {
+        name:'J. JUNAID JAMSHED',
+        img:'J.png'
+      },
+      {
+        name:'WARDA',
+        img:'WD.png'
+      },
+      {
+        name:'FIRDOUS',
+        img:'FS.png'
+      },
+      {
+        name:'CHEN ONE',
+        img:'CO.png'
+      },
+      {
+        name:'GENERATON',
+        img:'GN.png'
+      },
+      {
+        name:'MARIA B',
+        img:'MB.png'
+      },
+      {
+        name:'MOTIFZ',
+        img:'MF.png'
+      },
+      {
+        name:'MAUSUMMERY',
+        img:'MS.png'
+      },
+      {
+        name:'EDENROBE',
+        img:'ED.png'
+      },
+      {
+        name:'BONANZA',
+        img:'BZ.png'
+      },
+      {
+        name:'BIN SAEED',
+        img:'BS.png'
+      },
+      {
+        name:'EGO',
+        img:'EG.png'
+      },
+      {
+        name:'BAREEZE',
+        img:'BR.png'
+      },
+      {
+        name:'ETHNIC',
+        img:'ET.png'
+      },
+
+      
 ]
  
 
